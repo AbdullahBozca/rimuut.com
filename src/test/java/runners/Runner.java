@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber-reports/cucumber.json"},
         features="src/test/resources",
         glue="stepdefinitions",
-        tags="@Q1"  ,
+        tags="@all"  ,
         dryRun= false
 )
 

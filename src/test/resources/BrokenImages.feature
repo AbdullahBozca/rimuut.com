@@ -1,4 +1,4 @@
-@Q1
+@all
 Feature: Validate if there are broken images
 
 

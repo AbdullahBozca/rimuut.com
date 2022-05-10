@@ -1,4 +1,4 @@
-@Q1
+@all
 Feature: Try calculating an hourly rate
 
   Scenario: try calculating an hourly rate
