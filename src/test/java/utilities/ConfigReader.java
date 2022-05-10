@@ -11,7 +11,7 @@ public class ConfigReader {
 
     static {
 
-        String path="configuration.properties";
+        String path="src/configuration.properties";
 
         try {
 
